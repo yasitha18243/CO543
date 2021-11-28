@@ -1,1 +1,1 @@
-# CO543
+# CO543 - Image Processing
